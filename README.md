@@ -1,2 +1,2 @@
 # flutter_firestore_backend_sample
-"Using Firestore as a backend to your Flutter app" code samples
+"Using Firestore as a backend to your Flutter app" (https://youtu.be/DqJ_KjFzL9I) code samples.
