@@ -5,4 +5,4 @@ I've added this code for the edification of others and is a work in progress. As
 
 Adding "cloud_firestore: ^0.8.1" to pubspec.yaml file also helped.
 
-The error "registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)" comes upbut the app still runs.
+The error "registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)" comes up but the app still runs.
